@@ -20,7 +20,7 @@ In the folder "super-nice-designs" there are some really bad designs. The goal o
 
 ## The rules:
 
-1. You can only use Tailwind classes. No vanila JS!
+1. You can only use Tailwind classes. No vanilla CSS!
 
 2. You must override the default colors (You can generate a palette [here](https://mycolor.space). Use the classy palette. All five colors must be used in the final result)
 
